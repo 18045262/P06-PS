@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Local Bank</string>
+    <string name="DBS">DBS</string>
+    <string name="OCBC">OCBC</string>
+    <string name="UOB">UOB</string>
+    <string name="English">English</string>
+    <string name="Chinese">Chinese</string>
+    <string name="Website">Website</string>
+    <string name="Contact">Contact The Bank</string>
+    <string name="DBSnumber">18001111111</string>
+</resources>
